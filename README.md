@@ -31,6 +31,3 @@ src/
 ├── main.jsx # Entry point
 └── index.css # Tailwind CSS
 
-bash
-Copy
-Edit
